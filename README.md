@@ -1,2 +1,2 @@
 # SAS
-Projects &amp; Assignments via SAS
+ Assignments & Projects via SAS
